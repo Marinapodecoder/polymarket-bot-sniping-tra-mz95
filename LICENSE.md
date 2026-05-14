@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Plugin | sentiment-analysis + automated-trade-execution is the best Polymarket plugin, featuring sentiment-analysis and automated-trade-execution. Smart, fast, and
 
 
 
